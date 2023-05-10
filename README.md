@@ -1,7 +1,5 @@
 # LiDeNeRF
 LiDeNeRF: Neural Radiance Field Reconstruction with Depth Prior Provided by LiDAR Point Cloud
-# Point cloud reconstruction results:
+![image](https://github.com/WPC-WHU/LiDeNeRF/assets/32131223/89fdace8-6d52-4620-a7d5-5dc92dbc1c5e)
 
-![image](https://user-images.githubusercontent.com/32131223/237009353-25c02705-36e3-458f-88dc-9932f065105b.png)
-
-Coming soon!
+#Coming soon!
